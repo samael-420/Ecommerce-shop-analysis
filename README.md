@@ -44,6 +44,6 @@ Analyze online retail performance to understand revenue trends, customer behavio
 
 Thankyou for reading!
 
-## 📎 Author
+## Author
 Rutvik Randive
 Data Analyst | SQL | Power BI | Python 
