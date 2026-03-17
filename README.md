@@ -18,7 +18,7 @@ Analyze online retail performance to understand revenue trends, customer behavio
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 1. Loaded data into SQL Server from CSV (Sales, CustomerInfo, ProductInfo tables).
 2. Created relationships:
      Created 2 seperate tables from the master table Sales CustomerInfo and ProductInfo
